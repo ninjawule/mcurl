@@ -5,8 +5,8 @@
 - [Installation](#installation)
 - [How to use - help](#how-to-use-help)
 - [Example](#example)
-	- [Command](#command)
-	- [Output](#output)
+    - [Command](#command)
+    - [Output](#output)
 - [TODO](#todo)
 
 <!-- /TOC -->
@@ -14,7 +14,7 @@
 ## Installation
 
 ```shell script
-go install go github.com/ninjawule/mcurl
+go install -v github.com/ninjawule/mcurl
 ```
 
 [Top](#mcurl)
